@@ -4,6 +4,7 @@ using ArticleEngineRepositoryInterfaces;
 using ArticleEngineServiceInterfaces;
 using Models;
 using Models.Articles;
+using Models.Tags;
 
 namespace ArticleEngineService
 {

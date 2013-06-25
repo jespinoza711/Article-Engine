@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using Models.Tags;
 
 namespace Models.Articles
 {

@@ -6,6 +6,7 @@ using Models;
 using Models.ArticleValidation;
 using Models.Articles;
 using Models.PublishingRules;
+using Models.Tags;
 using Moq;
 using NUnit.Framework;
 
